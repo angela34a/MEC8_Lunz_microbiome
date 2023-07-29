@@ -5,5 +5,5 @@ Code repository for the exploration of microbial communities of Lunz water bodie
 Rendered html versions of Rmd files can be found at link: https://rpubs.com/angela34a/1067191
 
 # Analysis
-.R file with the source code 
+MEC8.R file with the source code 
 
